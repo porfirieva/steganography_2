@@ -9,3 +9,5 @@ if programm_type == 1:
     lsb_mode.main()
 if programm_type == 2:
     contrast_mode.main()
+
+    
